@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @tuzlukov1
-- 👀 I’m interested in QA automation
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on some project
-- 📫 How to reach me https://github.com/tuzlukov1
+Hi there! I'm qa automation engineer.
 
-<!---
-tuzlukov1/tuzlukov1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My skills: 
+- PageObjects
+- UI/API tests
+- Parameterized build
+- Owner.config
+- AllureTestops
+- Selenoid remote launch
+- Jenkins
+- Allure
+- Gradle
+- Selenide
+
+Example projects: 
+https://github.com/tuzlukov1/sportmaster-tests
+https://github.com/tuzlukov1/QA-guru-learning
+https://github.com/tuzlukov1/qa-guru-mobile-tests - real device launch https://disk.yandex.ru/i/MbMBno1i0FbnbQ
+![image](https://user-images.githubusercontent.com/53001619/170314809-1b0d92c5-b046-497d-971b-198ee00d3ba7.png)
