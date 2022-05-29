@@ -1,16 +1,6 @@
 Hi there! I'm qa automation engineer.
 
-My skills: 
-- PageObjects
-- UI/API tests
-- Parameterized build
-- Owner.config
-- AllureTestops
-- Selenoid remote launch
-- Jenkins
-- Allure
-- Gradle
-- Selenide
+My stack: Java, Selenium/selenide, gradle;
 
 Example projects: 
 - https://github.com/tuzlukov1/sportmaster-tests
