@@ -1,8 +1,14 @@
 Hi there! I'm qa automation engineer.
 
-My stack: Java, Selenium/selenide, gradle;
+My stack: Java 11, Selenium/selenide, RestAssured, gradle;
 
 Example projects: 
+Spring graduate work
+https://github.com/tuzlukov1/backend_project
+
+Telegram bot team project - Animal Shelter🐶
+[https://github.com/tuzlukov1/backend_project](https://github.com/tuzlukov1/team-project)
+
 - https://github.com/tuzlukov1/sportmaster-tests
 
 ![2022-05-25_23-33-25](https://user-images.githubusercontent.com/53001619/170316622-bbc2ef3f-605b-49d0-bf4a-e6f2c64231f0.png)
