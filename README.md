@@ -11,7 +11,7 @@
 <a href="https://www.jenkins.io/"><img src="https://github.com/tuzlukov1/sportmaster-tests/blob/master/images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"/></a>
 </p>
 
-**Contacts: tyzluckoff@yandex.ru, telegram:yan_tuzlukov**
+**Contacts: tyzluckoff@yandex.ru, telegram:[yan_tuzlukov](t.me/yan_tuzlukov)**
 
 
 
