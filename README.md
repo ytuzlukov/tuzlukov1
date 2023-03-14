@@ -43,5 +43,5 @@ Mobile auto learning project ✅
 - https://github.com/tuzlukov1/qa-guru-mobile-tests
 
 <div align="left">
-<a><img width="60%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&theme=drakula"/></a>
+<a><img width="60%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&theme=onedark"/></a>
 </div>
