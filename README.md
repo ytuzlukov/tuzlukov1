@@ -20,8 +20,6 @@ Ex Yandex, ex Adnow, current Sbermarket...
 Have bachelor degree in Computer Science(2016) 💻,
 recently completed advanced training courses in java development(2023)🎓
 
-**My stack: Java 11, Selenium/selenide, RestAssured, gradle;**
-
 ## Example projects: 
 Spring graduate work ✅
 - https://github.com/tuzlukov1/backend_project
