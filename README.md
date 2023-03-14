@@ -13,6 +13,8 @@
 
 **Contacts: tyzluckoff@yandex.ru, telegram:yan_tuzlukov**
 
+
+
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">Java SDET - QA Automation engineer</h3>
 
@@ -40,6 +42,6 @@ Auto QA learning project ✅
 Mobile auto learning project ✅
 - https://github.com/tuzlukov1/qa-guru-mobile-tests
 
-<div align="center">
-<a><img width="60%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&layout=compact&bg_color=f9f8f3&title_color=d18361&text_color=4c5747)"/></a>
+<div align="left">
+<a><img width="60%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&theme=transparent"/></a>
 </div>
