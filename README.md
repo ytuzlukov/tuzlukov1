@@ -12,8 +12,8 @@ Telegram bot team project - Animal Shelter✅
 Sportmaster Lab SDET graduate work ✅
 - https://github.com/tuzlukov1/sportmaster-tests
 
-Auto QA learning project
+Auto QA learning project ✅
 - https://github.com/tuzlukov1/QA-guru-learning
 
-Mobile auto learning project
+Mobile auto learning project ✅
 - https://github.com/tuzlukov1/qa-guru-mobile-tests
