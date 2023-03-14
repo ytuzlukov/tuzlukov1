@@ -47,3 +47,7 @@ Mobile auto learning project ✅
 </a>
 
 <a href="mailto:tyzluckoff@yandex.ru">My mailbox</a>
+
+<div id="header" align="right">
+<img src="https://komarev.com/ghpvc/?username=tuzlukov1&style=for-the-badge&color=lightgrey" alt=""/>
+</div>
