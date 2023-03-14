@@ -37,3 +37,7 @@ Auto QA learning project ✅
 
 Mobile auto learning project ✅
 - https://github.com/tuzlukov1/qa-guru-mobile-tests
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuzlukov1&show_icons=true&locale=en&layout=compact" alt="tuzlukov1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&show_icons=true&locale=en" alt="tuzlukov1" /></p>
