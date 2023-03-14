@@ -10,12 +10,6 @@
 <a href="https://github.com/allure-framework/allure2"><img src="https://github.com/tuzlukov1/sportmaster-tests/blob/master/images/logo/Allure.svg" width="50" height="50"  alt="Allure" title="Allure"/></a>
 <a href="https://www.jenkins.io/"><img src="https://github.com/tuzlukov1/sportmaster-tests/blob/master/images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"/></a>
 </p>
-
-<a href="https://t.me/yan_tuzlukov">
-    <img src="images/Telegram.svg" alt="Telegram Badge"/>
-</a>
-
-<a href="mailto:tyzluckoff@yandex.ru">My mailbox</a>
   
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">Java SDET - QA Automation engineer</h3>
@@ -47,3 +41,9 @@ Mobile auto learning project ✅
 <div align="left">
 <a><img width="60%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&theme=onedark"/></a>
 </div>
+
+<a href="https://t.me/yan_tuzlukov">
+    <img src="images/Telegram.svg" alt="Telegram Badge"/>
+</a>
+
+<a href="mailto:tyzluckoff@yandex.ru">My mailbox</a>
