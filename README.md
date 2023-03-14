@@ -13,9 +13,10 @@
 
 <a href="https://t.me/yan_tuzlukov">
     <img src="images/Telegram.svg" alt="Telegram Badge"/>
-  </a>
-  
+</a>
 
+<a href="tyzluckoff@yandex.ru">My mailbox</a>
+  
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">Java SDET - QA Automation engineer</h3>
 
