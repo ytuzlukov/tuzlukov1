@@ -13,8 +13,10 @@
 
 **Contacts: tyzluckoff@yandex.ru, telegram:yan_tuzlukov**
 
-Hi there! I'm qa automation engineer.
-6+ years of experiience in QA.
+<h1 align="center">Hi 👋, I'm Yan</h1>
+<h3 align="center">Java SDET - QA Automation engineer</h3>
+
+**6+** years of experiience in QA.
 Ex Yandex, ex Adnow, current Sbermarket...
 
 Have bachelor degree in Computer Science(2016) 💻,
@@ -40,4 +42,6 @@ Mobile auto learning project ✅
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuzlukov1&show_icons=true&locale=en&layout=compact" alt="tuzlukov1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&show_icons=true&locale=en" alt="tuzlukov1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuzlukov1&show_icons=true&locale=en" alt="tuzlukov1" /></p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tuzlukov1&label=Profile%20views&color=0e75b6&style=flat" alt="tuzlukov1" /> </p>
