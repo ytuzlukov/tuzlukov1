@@ -11,9 +11,10 @@
 <a href="https://www.jenkins.io/"><img src="https://github.com/tuzlukov1/sportmaster-tests/blob/master/images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"/></a>
 </p>
 
-**Contacts: tyzluckoff@yandex.ru, telegram:[yan_tuzlukov](https://t.me/yan_tuzlukov)**
-
-
+<a href="https://t.me/yan_tuzlukov">
+    <img src="images/Telegram.svg" alt="Telegram Badge"/>
+  </a>
+  
 
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">Java SDET - QA Automation engineer</h3>
